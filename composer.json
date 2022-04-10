@@ -1,0 +1,5 @@
+{
+    "require": {
+        "lemon_framework/lemon": "dev-v3-develop"
+    }
+}

@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 use Lemon\Cache;
 use Lemon\Config;
 use Lemon\Http\Request;
